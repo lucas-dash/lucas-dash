@@ -2,12 +2,12 @@
 
 Welcome to my digital playground! 🚀
 
-With two years of experience in frontend development, I've developed a strong foundation in creating user-centric, responsive websites and applications. My journey has now taken an exciting turn towards Swift and mobile development, opening a new chapter in my tech adventure.
+With two years of experience in Frontend development, I've cultivated a strong proficiency in creating intuitive, responsive websites and applications. As I continue to enhance my skills, I am particularly focused on advancing my expertise in React / Next.js, constantly exploring new features and methodologies to stay at the forefront of modern web development.
 
 - 🔭 I’m currently working on social media project - [DevSpace](https://github.com/lucas-dash/DevSpace)
-- 🌱 I’m passionate about tech stuff, macOS app, music
-- ⌨️ I’m on a learning journey with Swift, constantly improving my coding skills.
-- 🎯 Goal: Work in IT and build web or mobile applications.
+- 🌱 I’m passionate about tech stuff, macOS app, music.
+- ⌨️ I'm constantly improving my coding skills.
+- 🎯 Goal: Work in IT and build web and mobile applications.
 - 💬 Ask me about anything tech-related, I'm always ready to engage in geeky conversations!
 - ⚡ Fact: I'm a fast learner, and even when I don't know how to do something, I move on and look for solutions to achieve it!
 - 🪴 My hobbies: Reading books, football, self-improvement.
