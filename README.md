@@ -4,7 +4,7 @@ Welcome to my digital playground! 🚀
 
 With two years of experience in Frontend development, I've cultivated a strong proficiency in creating intuitive, responsive websites and applications. As I continue to enhance my skills, I am particularly focused on advancing my expertise in React / Next.js, constantly exploring new features and methodologies to stay at the forefront of modern web development.
 
-- 🔭 I’m currently working on social media project - [DevSpace](https://github.com/lucas-dash/DevSpace)
+- 🔭 I’m currently working on Events project - [Event Log](https://github.com/lucas-dash/event.log)
 - 🌱 I’m passionate about tech stuff, macOS app, music.
 - ⌨️ I'm constantly improving my coding skills.
 - 🎯 Goal: Work in IT and build web and mobile applications.
