@@ -42,10 +42,6 @@ With two years of experience in Frontend development, I've cultivated a strong p
 ![bun](https://skillicons.dev/icons?i=bun) &nbsp;
 
 
-**Backend:** <br> <br>
-![python](https://skillicons.dev/icons?i=python) &nbsp;
-
-
 
 ## 📫 Connect with Me
 
