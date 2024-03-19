@@ -39,7 +39,6 @@ With two years of experience in Frontend development, I've cultivated a strong p
 ![git](https://skillicons.dev/icons?i=git) &nbsp;
 ![vscode](https://skillicons.dev/icons?i=vscode) &nbsp;
 ![vite](https://skillicons.dev/icons?i=vite) &nbsp;
-![bun](https://skillicons.dev/icons?i=bun) &nbsp;
 
 
 
@@ -47,7 +46,6 @@ With two years of experience in Frontend development, I've cultivated a strong p
 
 <div align="center">
   
-[![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/spacecode_) &nbsp;
 ![Gmail](https://skillicons.dev/icons?i=gmail) homolka.lukas10@gmail.com &nbsp;
 
 </div>
